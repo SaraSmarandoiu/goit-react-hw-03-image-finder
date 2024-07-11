@@ -4,11 +4,12 @@ import ImageGallery from './ImageGallery/ImageGallery';
 import Button from './Button/Button';
 import Loader from './Loader/Loader';
 import Modal from './Modal/Modal';
+import styles from './App.module.css';
 import axios from 'axios';
 
 const API_KEY = '43967150-3be5b0a39ae7a872814e18aa5';
 
-const App = () => {
+export const App = () => {
   const [images, setImages] = useState([]);
   const [query, setQuery] = useState('');
   const [page, setPage] = useState(1);
