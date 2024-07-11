@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SaraSmarandoiu.github.io/goit-react-hw-03-image-finder/static/css/main.a59ef068.css",
+    "main.js": "/SaraSmarandoiu.github.io/goit-react-hw-03-image-finder/static/js/main.0f93c170.js",
+    "index.html": "/SaraSmarandoiu.github.io/goit-react-hw-03-image-finder/index.html",
+    "main.a59ef068.css.map": "/SaraSmarandoiu.github.io/goit-react-hw-03-image-finder/static/css/main.a59ef068.css.map",
+    "main.0f93c170.js.map": "/SaraSmarandoiu.github.io/goit-react-hw-03-image-finder/static/js/main.0f93c170.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59ef068.css",
+    "static/js/main.0f93c170.js"
+  ]
+}
